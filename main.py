@@ -2,7 +2,6 @@ import requests
 import json
 from datetime import datetime
 import os
-import pprint
 
 API_KEY = os.getenv('APILAYER_KEY')
 CURRENCY_RATES_FILE = 'currency_rates.json'
@@ -76,6 +75,5 @@ def save_to_json(data: dict) -> None:
     except Exception as e:
         print(f"Error saving to JSON: {e}")
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()

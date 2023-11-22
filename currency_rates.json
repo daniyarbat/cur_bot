@@ -1,0 +1,42 @@
+[
+  {
+    "currency": "USD",
+    "rate": null,
+    "times2tamp": "2023-11-22 16:09:01"
+  },
+  {
+    "currency": "USD",
+    "rate": 459.927249,
+    "times2tamp": "2023-11-22 16:12:41"
+  },
+  {
+    "currency": "EUR",
+    "rate": null,
+    "times2tamp": "2023-11-22 16:16:28"
+  },
+  {
+    "currency": "RUB",
+    "rate": null,
+    "times2tamp": "2023-11-22 16:21:14"
+  },
+  {
+    "currency": "EUR",
+    "rate": 501.094682,
+    "times2tamp": "2023-11-22 16:38:06"
+  },
+  {
+    "currency": "RUB",
+    "rate": 5.212232,
+    "times2tamp": "2023-11-22 16:38:23"
+  },
+  {
+    "currency": "CNY",
+    "rate": 64.500947,
+    "times2tamp": "2023-11-22 16:38:29"
+  },
+  {
+    "currency": "USD",
+    "rate": 459.927249,
+    "times2tamp": "2023-11-22 16:39:07"
+  }
+]
